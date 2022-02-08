@@ -10,7 +10,7 @@ namespace RepoDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git Repository");
+            Console.WriteLine("Hello Git Repository all");
         }
     }
 }
